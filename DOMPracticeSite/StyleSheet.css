@@ -1,2 +1,13 @@
 ﻿body {
+    height:2000px;
+    background-color: antiquewhite;
+}
+
+.scrollgreen {
+    background-color: green;
+}
+
+img{
+    height: 250px;
+    width: 350px;
 }

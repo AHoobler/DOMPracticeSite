@@ -1,0 +1,16 @@
+﻿body {
+    background-image: url('images/pug.jpg');
+    height: 2000px;
+}
+
+.scrolldog {
+   
+    background-image: url('images/bulldog.jpg');
+}
+
+p{
+    position: fixed;
+    font-weight: bold;
+    font-size: 50px;
+    color: darkred;
+}
